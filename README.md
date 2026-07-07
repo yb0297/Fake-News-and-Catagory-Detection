@@ -1,4 +1,4 @@
-Actual Repository is PRIVATE , Below is the link of the Website ![HelloClickHereGIF](https://github.com/user-attachments/assets/4c53218e-3d4e-4415-83cd-b7f5ee16e16e)
+Actual Repository is PRIVATE , Below is the screenshot of repo and information of project ![HelloClickHereGIF](https://github.com/user-attachments/assets/4c53218e-3d4e-4415-83cd-b7f5ee16e16e)
 
 <img width="1920" height="1078" alt="yb0297_Fake-News-Detection-and-News-Categorization - Google Chrome 07-07-2026 11_56_17" src="https://github.com/user-attachments/assets/8923411c-8912-4542-8f0f-f794617b922e" />
 
