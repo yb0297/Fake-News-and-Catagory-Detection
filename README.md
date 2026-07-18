@@ -43,24 +43,6 @@ Below is the high-level architecture of the system.
 
 ---
 
-# 🧠 Model Architecture
-
-## Fake News Detection Model
-
-Hybrid Deep Learning Model:
-
-BiRNN
-↓
-Feature Extraction
-↓
-MLP Classifier
-↓
-Fake / Real Prediction
-
-![Model Architecture](rnn%20mlp%20block.png)
-
----
-
 # 🤖 Transformer Model
 
 For news category classification, the project uses **DistilBERT**, a lightweight transformer model optimized for NLP tasks.
@@ -158,34 +140,6 @@ Users can:
 ### Prediction Output
 
 ![Prediction](Real%20prediction.png)
-
----
-
-# 📂 Repository Structure
-
-```
-Btech-Final-Year-Project
-│
-├── news_category_model/                # DistilBERT trained model
-├── news_category_model_trainer/       # Training artifacts
-├── logs/                               # Training logs
-│
-├── hybrid_model.h5                     # Trained hybrid model
-├── tokenizer.pkl                       # Saved tokenizer
-├── label_encoder.pkl                   # Label encoder
-├── training_history.pkl                # Training history
-│
-├── NEWS.csv                            # Fake news dataset
-├── CATEGORY.csv                        # News category dataset
-│
-├── DistilBERT for News Category Classification.ipynb
-├── mlprnn.ipynb
-├── mlpbirnn.ipynb
-│
-├── GUI Screenshots
-├── Confusion matrices
-├── Model performance graphs
-```
 
 ---
 
